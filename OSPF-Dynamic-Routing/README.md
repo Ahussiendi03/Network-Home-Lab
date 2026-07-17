@@ -23,6 +23,11 @@ Each office contains:
 Infrastructure devices use static IP addresses.
 
 Client devices obtain IP addresses automatically using DHCP.
+---
+
+## Network Topology
+<img width="1574" height="639" alt="image" src="https://github.com/user-attachments/assets/ac540781-86cf-4263-9b74-afd5537737c7" />
+
 
 ---
 
@@ -43,8 +48,6 @@ Client devices obtain IP addresses automatically using DHCP.
 | Device | IP |
 |---------|----|
 | Router | 192.168.20.1 |
-| Printer | 192.168.20.2 |
-| Wireless AP | 192.168.20.3 |
 | PC3 | DHCP |
 | PC4 | DHCP |
 
@@ -53,8 +56,6 @@ Client devices obtain IP addresses automatically using DHCP.
 | Device | IP |
 |---------|----|
 | Router | 192.168.30.1 |
-| Printer | 192.168.30.2 |
-| Wireless AP | 192.168.30.3 |
 | PC5 | DHCP |
 | PC6 | DHCP |
 
@@ -82,13 +83,18 @@ ip dhcp excluded-address 192.168.10.1 192.168.10.10
 ---
 
 ## Verification Commands
-
-
+```text
 show ip interface brief
 show ip route
+```
+<img width="1486" height="808" alt="image" src="https://github.com/user-attachments/assets/31c55534-3b5b-4d6c-ae98-807d1ca04f79" />
+
+```text
 show ip ospf neighbor
 show ip protocols
 show ip dhcp binding
+```
+<img width="1168" height="879" alt="image" src="https://github.com/user-attachments/assets/36cebf2d-6676-4b1a-beb6-14859c93fca3" />
 
 
 ---
