@@ -16,6 +16,12 @@ This home lab simulates a small enterprise network consisting of a Headquarters 
 - Practice network troubleshooting
 
 ---
+## Network Topology
+<img width="1602" height="625" alt="image" src="https://github.com/user-attachments/assets/cf6c98a2-a100-4f6d-a07c-02334c11f937" />
+
+
+
+---
 
 ## IP Addressing
 
