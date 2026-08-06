@@ -124,11 +124,12 @@ Customer Support users cannot access the File Server while maintaining access to
 
 ### Switch
 
-<img width="1139" height="884" alt="image" margin-bottom:20px src="https://github.com/user-attachments/assets/cee8e0e7-0832-4c37-a0dd-5b60cc0b2c60" />
+<img width="1139" height="884" alt="image" src="https://github.com/user-attachments/assets/cee8e0e7-0832-4c37-a0dd-5b60cc0b2c60" />
+<br><br>
 
 
 <img width="1181" height="910" alt="image" src="https://github.com/user-attachments/assets/e111822c-70b9-4458-8401-f42f6a4dec31" />
-
+<br><br>
 
 ```bash
 show vlan brief
@@ -143,10 +144,14 @@ show running-config
 ### Router
 
 <img width="1184" height="1028" alt="image" src="https://github.com/user-attachments/assets/2072f98b-7ce4-42c2-bcb3-9b97436798f5" />
+<br><br>
+
 
 <img width="1178" height="1036" alt="image" src="https://github.com/user-attachments/assets/f5f77be8-5372-44ff-bab7-866c29b12143" />
+<br><br>
 
 <img width="1166" height="1030" alt="image" src="https://github.com/user-attachments/assets/884d858c-41da-4ef0-99fe-1615eb4ae238" />
+<br><br>
 
 
 ```bash
