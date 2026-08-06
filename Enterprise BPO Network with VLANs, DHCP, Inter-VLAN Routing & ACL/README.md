@@ -124,7 +124,7 @@ Customer Support users cannot access the File Server while maintaining access to
 
 ### Switch
 
-<img width="1139" height="884" alt="image" src="https://github.com/user-attachments/assets/cee8e0e7-0832-4c37-a0dd-5b60cc0b2c60" />
+<img width="1139" height="884" alt="image" margin-bottom:20px src="https://github.com/user-attachments/assets/cee8e0e7-0832-4c37-a0dd-5b60cc0b2c60" />
 
 
 <img width="1181" height="910" alt="image" src="https://github.com/user-attachments/assets/e111822c-70b9-4458-8401-f42f6a4dec31" />
