@@ -4,7 +4,7 @@ This home lab simulates a small enterprise Business Process Outsourcing (BPO) ne
 
 The objective of this lab is to build a secure and scalable network similar to what is commonly deployed in corporate offices and BPO companies.
 
-##Network Topology
+## Network Topology
 <img width="1407" height="687" alt="image" src="https://github.com/user-attachments/assets/af506633-bf3f-49df-8610-90eb9e55faff" />
 
 ---
