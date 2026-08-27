@@ -19,7 +19,7 @@ This home lab simulates a multi-site enterprise network infrastructure consistin
 
 ## Network Topology & Interface Plan
 
-<img width="1860" height="688" alt="image" src="https://github.com/user-attachments/assets/f99344db-f6ad-4192-8d0d-a6a4e032f0cd" />
+<img width="1877" height="657" alt="image" src="https://github.com/user-attachments/assets/e84382cc-4473-4259-89da-cf8768b9561b" />
 
 | Device | Interface | IP Address / Subnet | Function / Role |
 | :--- | :--- | :--- | :--- |
